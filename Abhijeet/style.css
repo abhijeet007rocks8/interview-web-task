@@ -1,6 +1,7 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
+/*------------------For Responsiveness------------------------------------*/
 :root{
   --big-font-size: 2rem;
   --h2-font-size: 1.25rem;
