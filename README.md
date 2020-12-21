@@ -21,5 +21,3 @@ For queries: Hop on to the Discord and ask your doubts personally to me, **@smit
 Smit's discord id: *smitbarmase#6703*
 
 Best of luck!
-
-
